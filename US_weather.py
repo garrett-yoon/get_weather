@@ -21,7 +21,7 @@ headers = {
 window = Tk()
 
 # Set icon
-window.iconbitmap(r'C:\Users\ghjyo\Py_Pro\weather.ico')
+window.iconbitmap(r'weather.ico')
 
 # Set window title, size and background color
 window.geometry("500x400")
